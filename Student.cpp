@@ -1,4 +1,5 @@
 #include "Student.hpp"
+using namespace std;
 
 //default constructor
 Student::Student(void){ 
