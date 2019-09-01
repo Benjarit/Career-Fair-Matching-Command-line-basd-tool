@@ -1,3 +1,9 @@
+#include <cstdlib>
+#include <iostream>
+#include <vector>
+#include <string.h>
+#include <stdlib.h>
+
 //forward declarations
 class Employer;
 class Job;
