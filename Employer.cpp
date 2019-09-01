@@ -3,7 +3,7 @@
 #include <vector>
 #include <string.h>
 #include <stdlib.h>
-#include "main.h"
+#include "Employer.hpp"
 using namespace std;
 
 Employer::~Employer(void){
