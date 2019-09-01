@@ -6,6 +6,10 @@
 #include "Job.hpp"
 using namespace std
     
+class Student;
+class Job;
+class Employer;    
+    
 Job::Job(Employer* comp){ //constructor
     company = comp;
     class_standing_req = 0;
