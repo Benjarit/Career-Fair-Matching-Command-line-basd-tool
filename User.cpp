@@ -1,4 +1,5 @@
 #include "User.hpp"
+using namespace std;
 
 User::User(void){ //default user constructor
     username = "\0"; //initializes to null
