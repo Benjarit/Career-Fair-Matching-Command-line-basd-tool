@@ -1,3 +1,7 @@
+//forward declarations
+class Job;
+class Student;
+
 class Employer : public User{ //derived from user
     private:
         string companyName;
