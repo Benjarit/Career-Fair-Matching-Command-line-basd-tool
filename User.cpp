@@ -6,6 +6,10 @@
 #include "User.hpp"
 using namespace std;
 
+class Student;
+class Job;
+class Employer;
+
 User::User(void){ //default user constructor
     username = "\0"; //initializes to null
     password = "\0"; //initializes to null
