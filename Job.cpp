@@ -3,7 +3,9 @@
 #include <vector>
 #include <string.h>
 #include <stdlib.h>
-
+#include "Job.hpp"
+using namespace std
+    
 Job::Job(Employer* comp){ //constructor
     company = comp;
     class_standing_req = 0;
