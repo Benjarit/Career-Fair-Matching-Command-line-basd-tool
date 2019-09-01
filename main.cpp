@@ -1,13 +1,5 @@
-#include <cstdlib>
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <sstream>
-#include <algorithm>
 #include "main.h"
-
 using namespace std;
-
 
 //declares functions:
 Student* registerStudent(string userFile); //creates student profile
