@@ -1,9 +1,5 @@
 #pragma once
 
-//forward declarations
-class Employer;
-class Student;
-
 class Job{
     private:
         //declares variables:
