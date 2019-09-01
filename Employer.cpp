@@ -5,6 +5,9 @@
 #include <stdlib.h>
 #include "Employer.hpp"
 using namespace std;
+class Student;
+class Job;
+class Employer;
 
 Employer::~Employer(void){
 }
