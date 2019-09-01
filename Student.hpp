@@ -4,10 +4,6 @@
 #include <string.h>
 #include <stdlib.h>
 
-//forward declarations
-class Employer;
-class Job;
-
 class Student : public User{ //student is derived from user class
     private:
         string first_name;
