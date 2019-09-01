@@ -4,6 +4,12 @@
 class Student;
 class Job;
 
+#include <cstdlib>
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <sstream>
+#include <algorithm>
 #include Employer.hpp
 #include Student.hpp
 #include User.hpp
