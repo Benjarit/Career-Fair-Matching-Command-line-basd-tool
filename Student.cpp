@@ -6,6 +6,10 @@
 #include "Student.hpp"
 using namespace std;
 
+class Student;
+class Job;
+class Employer;
+
 //default constructor
 Student::Student(void){ 
     first_name = "";
