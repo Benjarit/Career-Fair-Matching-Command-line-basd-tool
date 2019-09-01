@@ -1,3 +1,8 @@
+#include <cstdlib>
+#include <iostream>
+#include <vector>
+#include <string.h>
+#include <stdlib.h>
 #include "User.hpp"
 using namespace std;
 
