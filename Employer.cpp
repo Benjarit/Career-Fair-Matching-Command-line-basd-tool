@@ -1,3 +1,9 @@
+#include <cstdlib>
+#include <iostream>
+#include <vector>
+#include <string.h>
+#include <stdlib.h>
+
 Employer::~Employer(void){
 }
 void Employer::viewMatchedCandidates(vector<Student*> students){ //sends vector to send to the print method
