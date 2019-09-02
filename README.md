@@ -21,8 +21,8 @@
 3. Employer.hpp | Employer.cpp
 4. Student.hpp | Student.cpp
 
-## System Architecture
-
+## User Case Diagram
+![](useCase.JPG)
 
 ###### COMPILING AND RUNNING
 -----------------------------------------------
