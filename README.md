@@ -22,4 +22,18 @@
 4. Student.hpp | Student.cpp
 
 ## System Architecture
-![](ActivityDiagram.pdf)
+![](usecCase.JPG)
+
+###### COMPILING AND RUNNING
+-----------------------------------------------
+The program should be compiled normally using the -std=c++0x flag. Example compilation command:
+    g++ main.cpp -std=c++0x
+    
+The program can then be run normally from the command line:
+    ./a.out
+
+###### GENERAL USAGE
+-----------------------------------------------
+1. Choose a test account, or create a new student account
+2. Login with the appropriate username and password
+3. Follow the menu prompts to use features of the program
