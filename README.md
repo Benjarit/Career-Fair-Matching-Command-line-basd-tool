@@ -22,7 +22,7 @@
 4. Student.hpp | Student.cpp
 
 ## System Architecture
-![](usecCase.JPG)
+
 
 ###### COMPILING AND RUNNING
 -----------------------------------------------
