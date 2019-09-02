@@ -22,3 +22,4 @@
 4. Student.hpp | Student.cpp
 
 ## System Architecture
+![](ActivityDiagram.pdf)
