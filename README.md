@@ -26,7 +26,9 @@
 
 ###### COMPILING AND RUNNING
 -----------------------------------------------
-The program should be compiled normally using the -std=c++0x flag. Example compilation command:
+The program should be compiled normally using the -std=c++0x flag. 
+
+Example compilation command:
     g++ main.cpp -std=c++0x
     
 The program can then be run normally from the command line:
